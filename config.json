@@ -9,13 +9,13 @@
   },
   "text": {
     "more": "Stackoverflow Tags. One Mode Netzwerk. Welche Tags erscheinen am häufigsten zusammen?",
-    "intro": "Stackoverflow Tags Clustering. Tags Community Detection",
-    "title": "Tag Clustering. Tags Community Detection"
+    "intro": "Stackoverflow Tags Clustering. Community Detection",
+    "title": "Tag Clustering. Community Detection"
   },
   "legend": {
-    "edgeLabel": "Tag-Tag Relations",
+    "edgeLabel": "Tag-Tag Connections",
     "colorLabel": "Modularity Class",
-    "nodeLabel": "Stackoverflow Tags"
+    "nodeLabel": "Stackexchange Tags"
   },
   "features": {
     "search": true,
